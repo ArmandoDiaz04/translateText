@@ -5,7 +5,7 @@ import (
 	"TraductorTexto/translatorFactory/translator"
 	"TraductorTexto/translatorProcess"
 )
-
+//hola
 type AppConfig struct {
 	TranslatorProcess translatorProcess.ITranslatorProcess
 }
